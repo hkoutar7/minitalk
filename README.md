@@ -30,9 +30,7 @@ The purpose of this project is to code a small data exchange program using UNIX 
 
 
 
-Compilation
-
-## Deployment
+## Compilation
 
 To deploy this project run
 
